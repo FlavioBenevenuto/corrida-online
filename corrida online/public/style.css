@@ -1,0 +1,23 @@
+body {
+  background: #111;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+#ui {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: rgba(0,0,0,0.6);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+canvas {
+  border: 4px solid #444;
+  background: #000;
+  margin-top: 60px;
+}
